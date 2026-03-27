@@ -1,4 +1,4 @@
-This is the professional **README.md** file for **Experiment 13**, focusing on data wrangling techniques to handle missing values and perform data cleaning in Python.
+
 
 ---
 
@@ -59,4 +59,3 @@ Through this experiment, I successfully performed data preprocessing and handled
 
 ---
 
-**Would you like me to create a checklist of common data cleaning steps you can follow for your next project?**
